@@ -10,9 +10,6 @@
         "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.spazioschiatti"
         },
-        "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.spazioschiatti"
-        },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "com.designbest.spazioschiatti"
         },
@@ -40,9 +37,6 @@
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.spazioschiatti"
-        },
         "es6-promise-plugin": {
             "PACKAGE_NAME": "com.designbest.spazioschiatti"
         }
